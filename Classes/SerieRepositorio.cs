@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using DIO.Series.Interfaces;
+using NET.Series.Interfaces;
 
-namespace DIO.Series
+namespace NET.Series
 {
 	public class SerieRepositorio : IRepositorio<Serie>
 	{

@@ -1,4 +1,4 @@
-namespace DIO.Series
+namespace NET.Series
 {
     public abstract class EntidadeBase
     {

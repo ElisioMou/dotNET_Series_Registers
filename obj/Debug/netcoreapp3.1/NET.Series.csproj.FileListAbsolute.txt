@@ -11,3 +11,16 @@
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+D:\MeusProjetos\C#\Series.Registers.NET\bin\Debug\netcoreapp3.1\NET.Series.exe
+D:\MeusProjetos\C#\Series.Registers.NET\bin\Debug\netcoreapp3.1\NET.Series.deps.json
+D:\MeusProjetos\C#\Series.Registers.NET\bin\Debug\netcoreapp3.1\NET.Series.runtimeconfig.json
+D:\MeusProjetos\C#\Series.Registers.NET\bin\Debug\netcoreapp3.1\NET.Series.runtimeconfig.dev.json
+D:\MeusProjetos\C#\Series.Registers.NET\bin\Debug\netcoreapp3.1\NET.Series.dll
+D:\MeusProjetos\C#\Series.Registers.NET\bin\Debug\netcoreapp3.1\NET.Series.pdb
+D:\MeusProjetos\C#\Series.Registers.NET\obj\Debug\netcoreapp3.1\NET.Series.csprojAssemblyReference.cache
+D:\MeusProjetos\C#\Series.Registers.NET\obj\Debug\netcoreapp3.1\NET.Series.AssemblyInfoInputs.cache
+D:\MeusProjetos\C#\Series.Registers.NET\obj\Debug\netcoreapp3.1\NET.Series.AssemblyInfo.cs
+D:\MeusProjetos\C#\Series.Registers.NET\obj\Debug\netcoreapp3.1\NET.Series.csproj.CoreCompileInputs.cache
+D:\MeusProjetos\C#\Series.Registers.NET\obj\Debug\netcoreapp3.1\NET.Series.dll
+D:\MeusProjetos\C#\Series.Registers.NET\obj\Debug\netcoreapp3.1\NET.Series.pdb
+D:\MeusProjetos\C#\Series.Registers.NET\obj\Debug\netcoreapp3.1\NET.Series.genruntimeconfig.cache
