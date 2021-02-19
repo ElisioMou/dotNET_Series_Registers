@@ -1,6 +1,6 @@
-# Prática .NET
+# Projeto .NET
 
-## Criando um APP de cadastro em memória
+## Criando um APP de cadastro e gerenciamento de séries.
 
 
 
